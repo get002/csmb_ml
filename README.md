@@ -16,4 +16,4 @@
     > version spaces</br>
     > the candidate elimination algorithm <b>[VIDEO](https://www.youtube.com/watch?v=O2wYwFOMQ24)</b></br>
     > remarks on version spaces and candidate elimination<b>[VIDEO](https://www.youtube.com/watch?v=u71RrLquBIk)</b></br>
-    > inductive bias<b>[VIDEO](https://www.youtube.com/watch?v=wrf4YuZA7Io)</b><br/>
+    > inductive bias <b>[ VIDEO](https://www.youtube.com/watch?v=wrf4YuZA7Io)</b><br/>
