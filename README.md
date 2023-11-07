@@ -17,3 +17,12 @@
     > the candidate elimination algorithm <b>[VIDEO](https://www.youtube.com/watch?v=O2wYwFOMQ24)</b></br>
     > remarks on version spaces and candidate elimination<b>[VIDEO](https://www.youtube.com/watch?v=u71RrLquBIk)</b></br>
     > inductive bias <b>[ VIDEO](https://www.youtube.com/watch?v=wrf4YuZA7Io)</b><br/>
+- Chapter 03 : Decision Tree Learning
+    > Introduction, decision tree representation<br/>
+    > Appropriate problems for decision tree learning <b>[VIDEO](https://www.youtube.com/watch?v=QLqlS7s53P4)</b><br/>
+    > The basic decision tree learning algorithm <b>[VIDEO](https://www.youtube.com/watch?v=coOTEc-0OGw&t=34s)</b><br/>
+    > Hypothesis space search in decision tree learning<br/>
+    > Inductive bias in decision tree learning <b>[VIDEO](https://www.youtube.com/watch?v=SVwFJZeWdtg)</b><br/>
+    > Issues in decision tree learning <b>[VIDEO](https://www.youtube.com/watch?v=3ZAyNV-LfuY)</b><br/>
+
+## Unit 02
