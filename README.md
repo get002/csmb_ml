@@ -26,6 +26,9 @@
     > Issues in decision tree learning <b>[VIDEO](https://www.youtube.com/watch?v=3ZAyNV-LfuY)</b><br/>
 
 ## Unit 02
+
+[Link for Machine Learning Unit 02 PPT & Notes](https://drive.google.com/drive/folders/1s1SMQF9yglOdaENghgB4o5aMxovkYMoM?usp=sharing)
+
 - Artificial Neural Networks-1
     > Introduction, neural network representation<br/>
     > Appropriate problems for neural network learning <b>[VIDEO](https://youtu.be/i8rGS6nZTEk)</b> <br/>
